@@ -1,11 +1,10 @@
-# Recovery restriction, not degradation acceleration, is the dominant climate signature in African land-system change since 1985
+# Suppressed recovery, not accelerated degradation, is the dominant climate signature of African land-cover change since 198
 
 This repository contains the **analysis code** for the paper:
 
-> **Recovery restriction, not degradation acceleration, is the dominant climate signature in African land-system change since 1985**
-> Hidayat Ullah et al. (in preparation, 2026)
+> **Suppressed recovery, not accelerated degradation, is the dominant climate signature of African land-cover change since 198**
 
-The **derived data** (analysis rasters and published-table / figure-source CSVs) are archived separately on Zenodo at **[Zenodo DOI]** because the rasters exceed GitHub's file-size limits.
+The **derived data** (analysis rasters and published-table / figure-source CSVs) are archived separately on Zenodo at **[[https://doi.org/10.5281/zenodo.20572259]** because the rasters exceed GitHub's file-size limits.
 
 The paper attributes 30-m land-cover transitions (GLC_FCS30D, 1985–2022) to antecedent drought conditions across the five IPCC AR5 Africa reference regions, using canonical SPEI/SPI series computed from CHIRPS precipitation and TerraClimate potential evapotranspiration. The central finding is that climate-driven African land-system change operates primarily through **recovery restriction** (climate gates which areas can recover) rather than **degradation acceleration** (climate forcing additional areas to degrade).
 
@@ -162,7 +161,7 @@ The code is released under the **MIT License** (see `LICENSE`). The derived data
 
 ## Contact
 
-Hidayat Ullah — [email TBD]
+Hidayat Ullah — [ullahhidayat@qdu.edu.cn]
 
 ## Acknowledgements
 
