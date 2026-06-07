@@ -55,7 +55,7 @@ The paper attributes 30-m land-cover transitions (GLC_FCS30D, 1985–2022) to an
         └── Batch4_Part1_PaperSummaryCSV.py         ← master numerical-summary CSV (333 entries; provenance trail)
 ```
 
-## Derived data on Zenodo — [https://doi.org/10.5281/zenodo.20572259]
+## Derived data on Zenodo — https://doi.org/10.5281/zenodo.20572259
 
 The Zenodo archive is organised as `rasters/` and `tables/`.
 
